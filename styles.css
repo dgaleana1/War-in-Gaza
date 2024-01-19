@@ -1,7 +1,20 @@
 body{
-    background-color: #a9a9a9
+    background-color: #a9a9a9;
 }
 
-p{
-    color:blue
+#p1{
+    color:#191970;
 }
+
+#p2{
+    color:#191970;
+}
+
+#p3{
+    color:#191970;
+}
+
+ol{
+    color:#191970;
+}
+
